@@ -10,7 +10,6 @@
 <code><a href="https://nextjs.org/"><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></a></code>
 <code><a href="https://vuejs.org/"><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"></a></code>
 <code><a href="https://www.docker.com/"><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg"></a></code>
-<code><a href="https://https://go.dev/"><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/golang-original.svg"></a></code>
 </p>
 
 <table>
