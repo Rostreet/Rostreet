@@ -8,7 +8,7 @@
 <code><a href="https://zh-hans.react.dev/"><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></a></code>
 <code><a href="https://nextjs.org/"><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"></a></code>
 <code><a href="https://vuejs.org/"><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"></a></code>
-<code><a href="https://go.dev/"><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/golang/golang-plain.svg"></a></code>
+<code><a href="https://go.dev/"><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"></a></code>
 </p>
 
 <table>
