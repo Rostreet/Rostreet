@@ -1,7 +1,4 @@
 <p align='center'>
-  <a href="https://zhaich-me.vercel.app">My World</a> .
-</p>
-<p align='center'>
 <code><a href="https://tc39.es/zh-Hans/"><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a></code>
 <code><a href="https://www.typescriptlang.org/"><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a></code>
 <code><a href="https://www.python.org"><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></a></code>
