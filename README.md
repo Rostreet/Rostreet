@@ -7,11 +7,3 @@
 <code><a href="https://vuejs.org/"><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"></a></code>
 <code><a href="https://go.dev/"><img height="32" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg"></a></code>
 </p>
-
-<table>
-  <tr>
-    <td colspan=2>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rostreet&theme=tokyonight">
-    </td>
-  </tr>
-</table>
